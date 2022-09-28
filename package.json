@@ -1,6 +1,6 @@
 {
   "name": "Enspire",
-  "version": "latest",
+  "version": "1.0.0",
   "description": "Inspiring quotes 😇 which I came across, showcased with ♥️",
   "main": "index.js",
   "repository": "https://github.com/VedxP/enspire",
@@ -8,8 +8,8 @@
   "license": "GPL v3.0",
   "private": true,
   "devDependencies": {
-    "vitepress": "latest",
-    "vue": "latest"
+    "vitepress": "1.0.0-alpha.16",
+    "vue": "3.2.39"
   },
    "scripts": {
     "docs:build": "vitepress build docs",
