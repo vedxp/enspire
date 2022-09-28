@@ -1,0 +1,21 @@
+---
+layout: home
+
+hero:
+  name: Enspire
+  tagline: Inspiring quotes 😇 which I came across, showcased with ♥️
+  image:
+    src: /hero.png
+    alt: Enspire Logo
+features:
+  - details: Success doesn't come from what you do occasionally, but what you do consistently.
+  - details: Success = Write down all your fears and title it To Do List.
+  - details: Take time to improve, but don't waste time to prove.
+  - details: Hurt in private, heal in silence and shine in public.
+  - details: Nothing can hurt you, if you enjoy being alone.
+  - details: If your salary is your only source of income, you're one step ahead of poverty.
+  - details: Be the reason someone smile today, but remember you're someone too.
+  - details: You think you know me, wrong, you only see what I choose to show you.
+  - details: Being alone is better than being in bad company.
+  - details: Be thankful for what you have, you'll end up having more; if you concentrate on what you don't have, you'll never ever have enough.
+---

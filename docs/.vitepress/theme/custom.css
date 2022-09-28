@@ -1,0 +1,10 @@
+:root {
+  --vp-c-brand: #AF8279;
+  --vp-c-brand-light: #ECAFA3;
+  --vp-c-brand-dark: #AF8279;
+.image {
+   filter: brightness(100%);
+}
+.dark .image {
+    filter: brightness(65%);
+}
